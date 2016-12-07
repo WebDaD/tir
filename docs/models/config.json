@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Config",
+  "description": "A Config Object for tir",
+  "type": "object",
+  "properties": {
+    "port": {
+      "description": "The Port the Server is listening to",
+      "type": "int"
+    },
+    "database": {
+      "description": "The Server-Path to the Database",
+      "type": "string"
+    }
+  }
+}

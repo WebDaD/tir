@@ -1,0 +1,30 @@
+{
+  "name": "tir",
+  "version": "0.1.0",
+  "description": "The one and only",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "angular-cookies": "*",
+    "angular-animate": "*",
+    "angular-bootstrap": "*",
+    "angular-tooltips":"*",
+    "angular-bootstrap-colorpicker":"*",
+    "bootstrap": "*",
+    "font-awesome": "*"
+  },
+  "resolutions": {
+    "angular": "1.5.9"
+  }
+}
