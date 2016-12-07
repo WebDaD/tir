@@ -104,7 +104,7 @@ For more information, please refer to <http://unlicense.org/>
 
 ---
 
-ᛏ Týr er einhendr áss
-ok ulfs leifar
-ok hofa hilmir.
-Mars tiggi.
+ᛏ Týr er einhendr áss  
+ok ulfs leifar  
+ok hofa hilmir.  
+Mars tiggi.  

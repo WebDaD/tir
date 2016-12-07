@@ -1,13 +1,11 @@
 # TODO
-* --> GITHUB
-
 ## datamodel
 
 Database:
 /database
 	programs.json (array of name-slug)
 	/program1/
-		kashdf.json (hash, id, slideshow info)
+		slideshow1.json (hash, id, slideshow info)
 
 
 ###
